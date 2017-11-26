@@ -1,9 +1,10 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <title>Hello cursor</title>
     </head>
     <body>
         <center><h1>Hello cursor!</h1></center>
+		<p><strong>Hometask for "VCS (git & github)"</strong></p>
     </body>
 </html>
