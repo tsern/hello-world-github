@@ -1,0 +1,9 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <title>Hello cursor</title>
+    </head>
+    <body>
+        <center><h1>Hello cursor!</h1></center>
+    </body>
+</html>
